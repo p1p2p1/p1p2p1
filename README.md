@@ -1,4 +1,6 @@
 ## 소개
+-개인 계정과 국비 학원에서 쓰는 계정 2가지 사용 중입니다.
+학원 계정 : https://github.com/pp1pp1
 
 ## 기술 스택
 <div align = "center">
