@@ -3,6 +3,9 @@
 학원 계정 : https://github.com/pp1pp1 <br>
 블로그 주소 : https://blog.naver.com/dbwjdals234
 
+## 학력
+호서대학교 정보통신공학부 학사
+
 ## 기술 스택
 <div align = "center">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
