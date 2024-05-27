@@ -1,6 +1,4 @@
 ## 소개
--개인 계정과 국비 학원에서 쓰는 계정 2가지 사용 중입니다. <br>
-학원 계정 : https://github.com/pp1pp1 <br>
 블로그 주소 : https://blog.naver.com/dbwjdals234
 
 ## 학력
